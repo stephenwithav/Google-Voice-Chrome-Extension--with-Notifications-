@@ -15,7 +15,7 @@
    "icons": {
       "128": "voice-128.png"
    },
-   "name": "Google Voice (by Google)",
+   "name": "Google Voice (with Notifications)",
    "options_page": "options.html",
    "permissions": [ "tabs", "http://*.google.com/", "https://*.google.com/" ],
    "version": "2.3.6.1"
